@@ -28,7 +28,7 @@ export default function Footer() {
                     className="section-heading text-4xl md:text-6xl font-bold text-white mb-6"
                     style={{ letterSpacing: "-0.03em" }}
                 >
-                    Ready to install
+                    Ready to use
                     <br />
                     <span
                         style={{
@@ -46,18 +46,22 @@ export default function Footer() {
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                    <button
+                    <a
+                        href="https://t.me/ProDDOS_bot"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="cosmic-btn px-10 py-4 rounded-xl font-semibold text-white text-sm"
                         style={{
                             background: "linear-gradient(135deg, #7c3aed 0%, #4338ca 100%)",
                             fontFamily: "var(--font-heading)",
                             letterSpacing: "0.02em",
+                            display: "inline-block",
                         }}
                     >
                         Get Early Access →
-                    </button>
+                    </a>
                     <a
-                        href="https://wa.me/your-number"
+                        href="https://wa.me/2348151326097"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="px-10 py-4 rounded-xl font-medium text-white/60 text-sm hover:text-white/90 transition-colors flex items-center gap-2 justify-center"

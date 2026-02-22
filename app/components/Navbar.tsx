@@ -70,8 +70,11 @@ export default function Navbar() {
             </div>
 
             {/* CTA */}
-            <button
-                className="px-5 py-2 rounded-lg text-xs font-semibold text-white transition-all duration-300 hover:scale-105"
+            <a
+                href="https://t.me/ProDDOS_bot"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-5 py-2 rounded-lg text-xs font-semibold text-white transition-all duration-300 hover:scale-105 inline-block"
                 style={{
                     background: "rgba(124,58,237,0.2)",
                     border: "1px solid rgba(124,58,237,0.4)",
@@ -79,7 +82,7 @@ export default function Navbar() {
                 }}
             >
                 Early Access
-            </button>
+            </a>
         </motion.nav>
     );
 }
