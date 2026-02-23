@@ -51,7 +51,7 @@ export default function Navbar() {
                     className="text-xs text-white/30 hidden sm:block"
                     style={{ fontFamily: "var(--font-mono)" }}
                 >
-                    / ProDoctivity OS
+                    / ProDuctivity OS
                 </span>
             </div>
 
@@ -71,7 +71,7 @@ export default function Navbar() {
 
             {/* CTA */}
             <a
-                href="https://t.me/ProDDOS_bot"
+                href="https://t.me/ProDOS_bot"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-5 py-2 rounded-lg text-xs font-semibold text-white transition-all duration-300 hover:scale-105 inline-block"

@@ -104,7 +104,7 @@ export default function HeroSection() {
                         className="text-[10px] tracking-widest text-white/30 uppercase"
                         style={{ fontFamily: "var(--font-mono)", letterSpacing: "0.15em" }}
                     >
-                        ProDoctivity OS
+                        ProDuctivity OS
                     </span>
                 </div>
             </motion.div>
@@ -177,7 +177,7 @@ export default function HeroSection() {
                 className="flex flex-col sm:flex-row gap-4 items-center"
             >
                 <a
-                    href="https://t.me/ProDDOS_bot"
+                    href="https://t.me/ProDOS_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="cosmic-btn relative px-8 py-4 rounded-xl font-semibold text-white text-sm tracking-wide"

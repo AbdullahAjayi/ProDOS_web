@@ -47,7 +47,7 @@ export default function Footer() {
 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                     <a
-                        href="https://t.me/ProDDOS_bot"
+                        href="https://t.me/ProDOS_bot"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cosmic-btn px-10 py-4 rounded-xl font-semibold text-white text-sm"
